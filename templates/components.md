@@ -1,0 +1,25 @@
+# Components
+
+This file pursues to provide a certain amount of stylized elements and components to enhance your READMEs so that anyone that would ask you "Is is stylish?" would be astonished by the beauty of your README!
+
+# Table of contents
+
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Architecture](#architecture)
+
+
+---
+
+
+## Installation
+
+Instructions.
+
+## Utilisation
+
+Exemples.
+
+## Architecture
+
+Structure du projet.
