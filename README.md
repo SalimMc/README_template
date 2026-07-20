@@ -7,3 +7,5 @@
 03_readme_torvalds => https://github.com/torvalds/linux
 
 04_readme_chasecheese => https://github.com/chasecheese/nano-vllm
+
+05_readme_odersky => https://github.com/odersky/odersky.github.io
