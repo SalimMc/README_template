@@ -9,3 +9,5 @@
 04_readme_chasecheese => https://github.com/chasecheese/nano-vllm
 
 05_readme_odersky => https://github.com/odersky/odersky.github.io
+
+06_readme_errikos => https://github.com/errikos/indico
