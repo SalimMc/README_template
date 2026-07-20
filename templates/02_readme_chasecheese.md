@@ -2,7 +2,7 @@
 
 This README is copied from the original repository:
 
-- **Repository:** https://github.com/chasecheese/LMCache?tab=readme-ov-file
+- **Repository:** https://github.com/chasecheese/LMCache
 - **Author:** @chasecheese
 - **Original README:** https://github.com/chasecheese/LMCache/blob/dev/README.md
 
