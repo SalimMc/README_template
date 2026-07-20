@@ -1,3 +1,15 @@
+## Attribution
+
+This README is copied from the original repository:
+
+- **Repository:** https://github.com/rayanemy/eb_jepa
+- **Author:** @rayanemy
+- **Original README:** https://github.com/rayanemy/eb_jepa/blob/main/README.md
+
+Licensed under the Apache License 2.0.
+
+
+
 <h1 align="center">
     <p>⚡ <b>EB-JEPA</b></p>
 </h1>
