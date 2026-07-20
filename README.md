@@ -11,3 +11,5 @@
 05_readme_odersky => https://github.com/odersky/odersky.github.io
 
 06_readme_errikos => https://github.com/errikos/indico
+
+07_readme_errikos => https://github.com/errikos/vscode-ayu
