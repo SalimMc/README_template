@@ -21,6 +21,11 @@ This file pursues to provide a certain amount of stylized elements and component
 
 ## Utilisation
 
+![SalimMc](https://github-readme-stats-eight-theta.vercel.app/api?username=SalimMc&show_icons=true&theme=nightowl&count_private=true)
+
+
+
+![SalimMc](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalimMc&layout=compact&langs_count=8&theme=nightowl)
 
 
 
