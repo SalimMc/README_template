@@ -455,6 +455,26 @@ AutoImport({
 <img src="https://ghstats.dev/api/card?username=SamiPr0"/>
 
 
+## 21 
+
+
+<p align="center">
+  <a href="https://github.com/SalimMc">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Kufi+Arabic&weight=600&size=30&duration=2000&pause=600&color=0090D0&center=true&vCenter=true&width=600&height=100&lines=Bonjour;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Hello;Hallo;Ahoj;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;你好;Привет;Hola;Ol%C3%A1;Ciao;Merhaba;Salve;%CE%A7%CE%B1%CE%AF%CF%81%CE%B5;nuqneH;Mae+govannen" alt="Hello in many languages"/>
+  </a>
+</p>
+
+
+
+## 22 
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SalimMc&bg_color=001a2e&color=0090d0&line=0090d0&point=ffffff&area_color=0090d0&title_color=0090d0&area=true&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+
 
 
 
