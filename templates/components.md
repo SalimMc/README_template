@@ -6,7 +6,25 @@ This file pursues to provide a certain amount of stylized elements and component
 
 - [01](#01)
 - [02](#02)
-- [Architecture](#architecture)
+- [03](#03)
+- [04](#04)
+- [05](#05)
+- [06](#06)
+- [07](#07)
+- [08](#08)
+- [09](#09)
+- [10](#10)
+- [11](#11)
+- [12](#12)
+- [13](#13)
+- [14](#14)
+- [15](#15)
+- [16](#16)
+- [17](#17)
+- [18](#18)
+- [19](#19)
+- [20](#20)
+
 
 
 ---
@@ -349,6 +367,92 @@ AutoImport({
 <a href="https://github.com/SalimMc/README_template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SalimMc/README_template" alt="Contributors">
 </a>
+
+
+## 08
+
+<p align="left">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalimMc&theme=github_dark" />
+
+
+</p>
+
+
+## 09
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalimMc&theme=github_dark" />
+</p>
+
+
+## 10
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalimMc&theme=github_dark" />
+</p>
+
+## 11
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalimMc&theme=github_dark" />
+</p>
+
+## 12
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalimMc&theme=github_dark&utcOffset=1" />
+</p>
+
+
+## 13
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=SalimMc&theme=github-dark&hide_border=true"/>
+
+## 14
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalimMc&theme=github-dark"/>
+
+## 15
+
+<!-- Activity Graph (react theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalimMc&theme=react-dark"/>
+
+## 16
+
+<!-- GitHub Metrics -->
+<img src="https://metrics.lecoq.io/SalimMc"/>
+
+## 17
+
+<!-- Metrics - Achievements -->
+<img src="https://metrics.lecoq.io/SalimMc?template=terminal"/>
+
+
+## 18
+
+<!-- Repos Per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalimMc&theme=github_dark"/>
+
+
+## 19
+
+<img src="https://ghchart.rshah.org/SalimMc" />
+<img src="https://ghchart.rshah.org/222222/SalimMc" />
+<img src="https://ghchart.rshah.org/ffffff/SalimMc" /> <!-- blanc -->
+<img src="https://ghchart.rshah.org/39d353/SalimMc" /> <!-- vert GitHub -->
+<img src="https://ghchart.rshah.org/58a6ff/SalimMc" /> <!-- bleu -->
+<img src="https://ghchart.rshah.org/f85149/SalimMc" /> <!-- rouge -->
+<img src="https://ghchart.rshah.org/a371f7/SalimMc" /> <!-- violet -->
+
+
+
+## 20
+
+<!-- GitHub Stats (ghstats.dev) -->
+<img src="https://ghstats.dev/api/card?username=SamiPr0"/>
 
 
 
