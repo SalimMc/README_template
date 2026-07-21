@@ -434,3 +434,128 @@ This file contains a several numbe of stylized badges that you can add to your R
 
 ![ftb](https://forthebadge.com/images/badges/no-ragrets.svg)
 ![ftb](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+
+## Square image badges
+
+<!-- Programming Languages -->
+<p>
+  <a><img alt="Java" height="40" src="https://skillicons.dev/icons?i=java"/></a>
+  <a><img alt="Python" height="40" src="https://skillicons.dev/icons?i=py"/></a>
+  <a><img alt="JavaScript" height="40" src="https://skillicons.dev/icons?i=js"/></a>
+  <a><img alt="TypeScript" height="40" src="https://skillicons.dev/icons?i=ts"/></a>
+  <a><img alt="C" height="40" src="https://skillicons.dev/icons?i=c"/></a>
+  <a><img alt="C++" height="40" src="https://skillicons.dev/icons?i=cpp"/></a>
+  <a><img alt="C#" height="40" src="https://skillicons.dev/icons?i=cs"/></a>
+  <a><img alt="Go" height="40" src="https://skillicons.dev/icons?i=go"/></a>
+  <a><img alt="Rust" height="40" src="https://skillicons.dev/icons?i=rust"/></a>
+  <a><img alt="Kotlin" height="40" src="https://skillicons.dev/icons?i=kotlin"/></a>
+  <a><img alt="Swift" height="40" src="https://skillicons.dev/icons?i=swift"/></a>
+  <a><img alt="Dart" height="40" src="https://skillicons.dev/icons?i=dart"/></a>
+  <a><img alt="PHP" height="40" src="https://skillicons.dev/icons?i=php"/></a>
+  <a><img alt="Ruby" height="40" src="https://skillicons.dev/icons?i=ruby"/></a>
+  <a><img alt="Lua" height="40" src="https://skillicons.dev/icons?i=lua"/></a>
+  <a><img alt="R" height="40" src="https://skillicons.dev/icons?i=r"/></a>
+  <a><img alt="Scala" height="40" src="https://skillicons.dev/icons?i=scala"/></a>
+</p>
+
+
+<!-- Frontend -->
+<p>
+  <a><img alt="HTML" height="40" src="https://skillicons.dev/icons?i=html"/></a>
+  <a><img alt="CSS" height="40" src="https://skillicons.dev/icons?i=css"/></a>
+  <a><img alt="React" height="40" src="https://skillicons.dev/icons?i=react"/></a>
+  <a><img alt="Next.js" height="40" src="https://skillicons.dev/icons?i=nextjs"/></a>
+  <a><img alt="Vue" height="40" src="https://skillicons.dev/icons?i=vue"/></a>
+  <a><img alt="Angular" height="40" src="https://skillicons.dev/icons?i=angular"/></a>
+  <a><img alt="Svelte" height="40" src="https://skillicons.dev/icons?i=svelte"/></a>
+  <a><img alt="Tailwind" height="40" src="https://skillicons.dev/icons?i=tailwind"/></a>
+  <a><img alt="Bootstrap" height="40" src="https://skillicons.dev/icons?i=bootstrap"/></a>
+  <a><img alt="Material UI" height="40" src="https://skillicons.dev/icons?i=materialui"/></a>
+</p>
+
+
+<!-- Backend Frameworks -->
+<p>
+  <a><img alt="Node.js" height="40" src="https://skillicons.dev/icons?i=nodejs"/></a>
+  <a><img alt="Express" height="40" src="https://skillicons.dev/icons?i=express"/></a>
+  <a><img alt="NestJS" height="40" src="https://skillicons.dev/icons?i=nestjs"/></a>
+  <a><img alt="Spring" height="40" src="https://skillicons.dev/icons?i=spring"/></a>
+  <a><img alt="Django" height="40" src="https://skillicons.dev/icons?i=django"/></a>
+  <a><img alt="Flask" height="40" src="https://skillicons.dev/icons?i=flask"/></a>
+  <a><img alt="FastAPI" height="40" src="https://skillicons.dev/icons?i=fastapi"/></a>
+  <a><img alt="Laravel" height="40" src="https://skillicons.dev/icons?i=laravel"/></a>
+</p>
+
+
+<!-- Databases -->
+<p>
+  <a><img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql"/></a>
+  <a><img alt="PostgreSQL" height="40" src="https://skillicons.dev/icons?i=postgres"/></a>
+  <a><img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongodb"/></a>
+  <a><img alt="Redis" height="40" src="https://skillicons.dev/icons?i=redis"/></a>
+  <a><img alt="SQLite" height="40" src="https://skillicons.dev/icons?i=sqlite"/></a>
+  <a><img alt="Firebase" height="40" src="https://skillicons.dev/icons?i=firebase"/></a>
+  <a><img alt="Supabase" height="40" src="https://skillicons.dev/icons?i=supabase"/></a>
+</p>
+
+
+<!-- AI / Machine Learning -->
+<p>
+  <a><img alt="PyTorch" height="40" src="https://skillicons.dev/icons?i=pytorch"/></a>
+  <a><img alt="TensorFlow" height="40" src="https://skillicons.dev/icons?i=tensorflow"/></a>
+  <a><img alt="OpenCV" height="40" src="https://skillicons.dev/icons?i=opencv"/></a>
+  <a><img alt="Anaconda" height="40" src="https://skillicons.dev/icons?i=anaconda"/></a>
+  <a><img alt="HuggingFace" height="40" src="https://skillicons.dev/icons?i=huggingface"/></a>
+</p>
+
+
+<!-- Cloud -->
+<p>
+  <a><img alt="AWS" height="40" src="https://skillicons.dev/icons?i=aws"/></a>
+  <a><img alt="Azure" height="40" src="https://skillicons.dev/icons?i=azure"/></a>
+  <a><img alt="Google Cloud" height="40" src="https://skillicons.dev/icons?i=gcp"/></a>
+  <a><img alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker"/></a>
+  <a><img alt="Kubernetes" height="40" src="https://skillicons.dev/icons?i=kubernetes"/></a>
+  <a><img alt="Terraform" height="40" src="https://skillicons.dev/icons?i=terraform"/></a>
+</p>
+
+
+<!-- DevOps -->
+<p>
+  <a><img alt="Git" height="40" src="https://skillicons.dev/icons?i=git"/></a>
+  <a><img alt="GitHub" height="40" src="https://skillicons.dev/icons?i=github"/></a>
+  <a><img alt="GitHub Actions" height="40" src="https://skillicons.dev/icons?i=githubactions"/></a>
+  <a><img alt="Linux" height="40" src="https://skillicons.dev/icons?i=linux"/></a>
+  <a><img alt="Bash" height="40" src="https://skillicons.dev/icons?i=bash"/></a>
+  <a><img alt="Nginx" height="40" src="https://skillicons.dev/icons?i=nginx"/></a>
+</p>
+
+
+<!-- IDE / Tools -->
+<p>
+  <a><img alt="VS Code" height="40" src="https://skillicons.dev/icons?i=vscode"/></a>
+  <a><img alt="IntelliJ" height="40" src="https://skillicons.dev/icons?i=idea"/></a>
+  <a><img alt="Android Studio" height="40" src="https://skillicons.dev/icons?i=androidstudio"/></a>
+  <a><img alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman"/></a>
+  <a><img alt="Figma" height="40" src="https://skillicons.dev/icons?i=figma"/></a>
+</p>
+
+
+<!-- Mobile -->
+<p>
+  <a><img alt="Flutter" height="40" src="https://skillicons.dev/icons?i=flutter"/></a>
+  <a><img alt="React Native" height="40" src="https://skillicons.dev/icons?i=react"/></a>
+</p>
+
+
+<!-- Game Development -->
+<p>
+  <a><img alt="Unity" height="40" src="https://skillicons.dev/icons?i=unity"/></a>
+  <a><img alt="Unreal Engine" height="40" src="https://skillicons.dev/icons?i=unreal"/></a>
+  <a><img alt="Godot" height="40" src="https://skillicons.dev/icons?i=godot"/></a>
+</p>
+
+
+
+
+
