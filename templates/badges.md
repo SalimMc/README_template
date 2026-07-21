@@ -556,6 +556,3 @@ This file contains a several numbe of stylized badges that you can add to your R
 </p>
 
 
-
-
-
