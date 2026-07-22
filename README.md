@@ -1,4 +1,22 @@
-# README_template
+<p align="center">
+  <img src="https://media.giphy.com/media/jrBV2WKIm1YSAtuAe8/giphy.gif" width="800">
+</p>
+
+
+<h1 align="center">README_template</h1>
+
+<p align="center">
+  Build and make your own beautiful GitHub READMEs in minutes ヾ(⌐■_■)ノ♪
+</p>
+
+<p align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge)
+![License](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)
+
+</p>
+
 
 This repository aims to give the tools and the templates to build better READMEs so that all your projects will be completly stylized!!! ✪ ω ✪
 
@@ -8,6 +26,7 @@ This repository aims to give the tools and the templates to build better READMEs
 > The README files and templates are the result of their work. All rights remain reserved by their respective authors.
 >
 > Each template is distributed under the license of the original repository from which it was sourced. A link to the original repository is provided at the beginning of each document, where you can find the applicable license and attribution information.
+
 
 
 ---
@@ -94,6 +113,31 @@ Make the templates your own by customising it with your repository parameters, i
 
 ---
 
+## 📂 Repository structure
+
+```text
+README_template
+│
+├── templates/
+│   ├── 01_readme_rayanemy.md
+│   ├── ...
+│
+├── raw_templates/
+│   ├── XX_01_readme.md
+│   ├── ...
+│
+├── elements/
+│   ├── components.md
+│   ├── badges.md
+│   ├── ...
+│
+├── README
+├── LICENSE
+└── .gitignore
+```
+
+---
+
 ## ༼ つ ◕_◕ ༽つ Contributors
 
 <a href="https://github.com/SalimMc/README_template/graphs/contributors">
@@ -105,4 +149,14 @@ Make the templates your own by customising it with your repository parameters, i
 ## 📄 License
 
 In the `/templates` directory, each file has its own license regarding to its original source repository.
-For more details on the orther files excludint the `/templates` directory, see the LICENSE file.
+For more details on the orther files excluding the `/templates` directory, see the LICENSE file.
+
+---
+
+<p align="center">
+
+Made with ❤️ by SalimMc
+
+⭐ If this repository helped you, you know what to do!
+
+</p>
