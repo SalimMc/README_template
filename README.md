@@ -11,9 +11,10 @@
 
 <p align="center">
 
+
 ![GitHub stars](https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge)
-![License](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)
 
 </p>
 
