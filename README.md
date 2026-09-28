@@ -2,7 +2,6 @@
   <img src="https://media1.tenor.com/m/Bx3fWVP1SgUAAAAd/minecraft-timelapse.gif" width="800">
 </p>
 
-
 <h1 align="center">README_template</h1>
 
 <p align="center">
@@ -10,11 +9,15 @@
 </p>
 
 <p align="center">
-
-  [![GitHub stars](https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/network/members)
-  [![GitHub license](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/blob/main/LICENSE.md)
-
+  <a href="https://github.com/SalimMc/README_template/stargazers">
+    <img src="https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/SalimMc/README_template/network/members">
+    <img src="https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/SalimMc/README_template/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge" alt="GitHub license">
+  </a>
 </p>
 
 This repository aims to give the tools and the templates to build better READMEs so that all your projects will be completly stylized!!! ✪ ω ✪
