@@ -11,11 +11,9 @@
 
 <p align="center">
 
-  ![GitHub stars](https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge)
-
-  ![GitHub forks](https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge)
-
-  ![GitHub license](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)
+  [![GitHub stars](https://img.shields.io/github/stars/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/network/members)
+  [![GitHub license](https://img.shields.io/github/license/SalimMc/README_template?style=for-the-badge)](https://github.com/SalimMc/README_template/blob/main/LICENSE.md)
 
 </p>
 
@@ -141,9 +139,12 @@ README_template
 
 ## ༼ つ ◕_◕ ༽つ Contributors
 
+
+
 <a href="https://github.com/SalimMc/README_template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SalimMc/README_template" alt="Contributors">
 </a>
+
 
 ---
 
