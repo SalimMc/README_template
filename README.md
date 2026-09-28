@@ -131,8 +131,8 @@ README_template
 │   ├── badges.md
 │   ├── ...
 │
-├── README
-├── LICENSE
+├── README.md
+├── LICENSE.md
 └── .gitignore
 ```
 
